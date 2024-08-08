@@ -19,6 +19,7 @@ struct variant_info {
     std::string marketname;
     std::string mod_device;
     std::string model;
+    std::string cert;
     std::string build_fingerprint;
     std::string hwsku;
 
